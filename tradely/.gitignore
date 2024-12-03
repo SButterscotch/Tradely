@@ -1,0 +1,52 @@
+# Dart
+*.dart.js
+*.info.json
+*.js
+*.js_
+*.json
+*.map
+*.ng_summary.json
+*.dart
+
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+.macos/
+.windows/
+web/.dart_tool/
+web/.packages
+web/build/
+
+# Obsolete VSC and IDE files
+.idea/
+.vscode/
+.vscode-test/
+*.iml
+*.ipr
+*.iws
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Android Studio
+*.iml
+.gradle/
+local.properties
+*/out/
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.lock
+*.log
+*.tmp
+*.temp
+
+# Generated files by Flutter
+generated_plugin_registrant.dart
